@@ -1,6 +1,7 @@
-SKUvantage Engineering Task (React)
+**SKUvantage Engineering Task (React)**
 
 Basic Random Image Retrieval from picsum.photos App
+
 How to setup:
 
 1. Ensure than node/npm is installed
